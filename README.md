@@ -51,7 +51,7 @@ Tech Stack
 </tr>
 </table>
 
-
+[![Pushpendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=pushpendrakadwa)](https://github.com/pushpendrakadwa/github-readme-stats)
 
 
  
