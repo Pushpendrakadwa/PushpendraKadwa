@@ -1,14 +1,14 @@
-⚫ Hi 👋, I'm Pushpendra🌸
+• Hi 👋, I'm Pushpendra🌸
 
-⚫ A software engineer
+• A software engineer
 
-⚫ 🌱 Now learning:
+• 🌱 Now learning:
 
-     python
+   python
  
-⚫ 💞️ I’m looking to collaborate on Java and Angular releated project
+• 💞️ I’m looking to collaborate on Java and Angular releated project
 
-⚫ Hobbies:
+• Hobbies:
 
 defence enthusiast
 
