@@ -1,4 +1,4 @@
-header.png
+https://github.com/Pushpendrakadwa/PushpendraKadwa/blob/main/header.png
 
 
 |                              About Me                                                    |                           Tech Stack                           |
