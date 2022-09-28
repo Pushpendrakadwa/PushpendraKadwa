@@ -8,4 +8,5 @@
 | • Hobbies:
   defence enthusiast
   playing cricket
-  geopolitics enthusiast|
+  geopolitics enthusiast
+|----------------------------------------------------------------------------------------|---------------------------------------------------------------------|
