@@ -1,4 +1,4 @@
-[![Pushpendra's GitHub Banner](./assets/GitHubHeader.png)]
+header.png
 
 
 |                              About Me                                                    |                           Tech Stack                           |
